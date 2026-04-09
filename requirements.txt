@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+scikit-learn
+pandas
+pdfplumber
+PyPDF2==3.0.1
