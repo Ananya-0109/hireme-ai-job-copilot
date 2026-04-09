@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Get API key securely
-groq_api_key = os.getenv("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")
+groq_api_key = os.getenv("Your-API-Key")
 
 # ---------------------------
 # Groq-based Tailored Resume
