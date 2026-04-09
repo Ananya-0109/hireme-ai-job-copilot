@@ -8,6 +8,15 @@
 
 ---
 
+## IMAGES
+<img width="1901" height="878" alt="image" src="https://github.com/user-attachments/assets/48c23e36-28ae-4868-8d8b-a5c237c7a2d4" />
+
+<img width="1912" height="696" alt="image" src="https://github.com/user-attachments/assets/8d484e51-5829-4d4e-b15f-fa8f9055476d" />
+
+<img width="1884" height="889" alt="image" src="https://github.com/user-attachments/assets/115c9df4-b9bc-4349-b107-f9104259c0a0" />
+
+
+
 ## 🌟 Features
 
 1. **Resume Upload**
